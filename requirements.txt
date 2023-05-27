@@ -1,0 +1,9 @@
+keras
+numpy 
+pandas 
+os
+PIL
+shutil
+matplotlib.pyplot 
+sys‏
+‪gunicorn
